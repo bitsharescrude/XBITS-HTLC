@@ -24,3 +24,19 @@ Step 8: user confirms the transaction.. (new users will be issued approximately 
 XBITS is limited as it is not operated automatically so users are advised to excercise patience when dealing with XBITS.
 XBITS will deal with users on a first come basis. To avoid clog the transaction ID of each transaction will be posted on the "HTLC records" repository
 Users can also check up their transactions on the blockchain explorer bts.ai, cryptofresh.com or wallet.bitshares.org/explorer/.
+
+# Withdrawals
+XBITS does not perform withdrawals, the account owner is the one responsible for withdrawals, however for transparency, all user withdrawals will be sent XBITS.
+Step 1: user initiate withdrawal via HTLC or memo of 1bts. (N/B if you do not understand how HTLC works stick with memo.)
+
+Step 2: XBITS owner acknowledge the order via memo of 1bts
+
+Step 3: user then sends withdrawal amount with bank txn details and preimagexxxxxxSHA in memo (if you sent memo initially all the details should be included so skip this step)
+
+Step 4: XBITS owner pays the requested amount into bank details given via whatever means he chooses, i.e cash or online deposit service after redeeming the HTLC or receiving the withdrawal order
+
+Step 5: XBITS owner will then send proof of deposit in memo.
+# Liquidity
+XBITS recognize that liquidity on the DEX is an issue thus users who wish to trade or who are already used to the bitshares ecosystem may be given BTS instead of XBITS.NGN
+The resulting BTS will then be used to buy XBITS.NGN on the DEX.
+
