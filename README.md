@@ -20,4 +20,7 @@ Step 7: user inputs preimagexxxxxxSHA on provided column after clicking the rede
 
 Step 8: user confirms the transaction.. (new users will be issued approximately 10BTS to facilitate the payment of fees)
 
-#
+# Transaction Clog
+XBITS is limited as it is not operated automatically so users are advised to excercise patience when dealing with XBITS
+XBITS will deal with users on a first come basis, to avoid clog the transaction ID of each transaction will be posted on the "HTLC records" repository
+Users can also check up their transactions on the blockchain explorer bts.ai, cryptofresh.com or wallet.bitshares.org/explorer/.
