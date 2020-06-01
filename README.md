@@ -23,7 +23,7 @@ Step 8: user confirms the transaction.. (new users will be issued approximately 
 # Transaction Clog
 XBITS is limited as it is not operated automatically so users are advised to excercise patience when dealing with XBITS.
 XBITS will deal with users on a first come basis. To avoid clog the transaction ID of each transaction will be posted on the "HTLC records" repository
-Users can also check up their transactions on the blockchain explorer bts.ai, cryptofresh.com or wallet.bitshares.org/explorer/.
+Users can also check up their transactions on the blockchain explorer bts.ai, cryptofresh.com or https://bts.ai https://wallet.bitshares.org/#/explorer/blocks.
 
 # Withdrawals
 XBITS does not perform withdrawals, the account owner is the one responsible for withdrawals, however for transparency, all user withdrawals will be sent XBITS.
