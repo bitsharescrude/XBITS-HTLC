@@ -4,7 +4,7 @@ N/B HTLC is still a sensitive feature and users are warned not to transact busin
 
 Procedure
 
-Step 1: user request for XBITS.ASSETS deposit at (agreed) charge set by XBITS.
+Step 1: user request for BTS or XBITS.ASSETS deposit at (agreed) charge set by XBITS.
 
 Step 2: XBITS ask for user's account name on the bitshares blockchain (user must be registered on wallet.bitshares.org to be able to perform this transaction)
 
